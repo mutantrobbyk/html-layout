@@ -28,8 +28,8 @@ body {
 }
 .circle {
     background-color: lightblue;
-    width: 24vw;
-    height: 18vh;
+    width: 145px;
+    height: 145px;
     display: inline-block;
     margin-left: 4vw;
     border-radius: 50%;
