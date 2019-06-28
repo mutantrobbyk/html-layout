@@ -1,0 +1,76 @@
+
+body {
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+.header {
+    background-color: white;
+    width: 100%;
+    height: 20vh;
+    border-style: solid;
+    margin: 2vh 2vh;
+}
+.tall {
+    background-color: purple;
+    width: 5vh;
+    height: 13vh;
+    display: inline-block;
+    margin: 6vh 1vh 0 1vh
+}
+.long {
+    background-color: green;
+    width: 40vw;
+    height: 18vh;
+    display: inline-block;
+    margin-left: 5vw
+}
+.circle {
+    background-color: lightblue;
+    width: 24vw;
+    height: 18vh;
+    display: inline-block;
+    margin-left: 4vw;
+    border-radius: 50%;
+    
+
+}
+.middle {
+    background-color: white;
+    width: 100vw;
+    height: 30vh;
+    border-style: dotted;
+    margin: 2vh 2vh;
+}
+.box {
+    background-color: bisque;
+    display: inline-block;
+    width: 70vw;
+    height: 20vh;
+    margin-left: 15vw;
+    margin-top: 5vh;
+    box-shadow: 5px 5px 4px black;
+}
+.footer {
+    background-color: white;
+    width: 60vw;
+    height: 40vh;
+    border-style: solid;
+    border-color: lightgray;
+    border-style: groove;
+    border-width: 1px;
+    margin: 1vh auto; 
+    box-shadow: 5px 5px 4px lightgray; 
+}
+.paragraph {
+    background-color: white;
+    margin: 15vh 20vw;
+    width: 10vw;
+    height: 10vh;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    color: navy;
+    letter-spacing: 4px;
+}
